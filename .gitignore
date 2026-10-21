@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+# riwayat dzikir lokal (jangan di-commit)
+.tasbih_online_riwayat.json
+riwayat-demo.json
